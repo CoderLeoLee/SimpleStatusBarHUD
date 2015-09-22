@@ -12,10 +12,10 @@
 		B33625841BB0E87C004E5F5E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B33625831BB0E87C004E5F5E /* Images.xcassets */; };
 		B33625871BB0E87C004E5F5E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B33625851BB0E87C004E5F5E /* LaunchScreen.xib */; };
 		B33625931BB0E87C004E5F5E /* XMGStatusBarHUDDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B33625921BB0E87C004E5F5E /* XMGStatusBarHUDDemoTests.m */; };
-		B33625AD1BB0E9EC004E5F5E /* XMGStatusBarHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B33625AC1BB0E9EC004E5F5E /* XMGStatusBarHUD.bundle */; };
-		B33625B01BB0EA01004E5F5E /* XMGStatusBarHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = B33625AF1BB0EA01004E5F5E /* XMGStatusBarHUD.m */; };
-		B33625B91BB0EB4B004E5F5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B33625B61BB0EB4B004E5F5E /* Main.storyboard */; };
-		B33625BA1BB0EB4B004E5F5E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B33625B81BB0EB4B004E5F5E /* ViewController.m */; };
+		B3CBB81D1BB0F5B0009C778F /* XMGStatusBarHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B3CBB81A1BB0F5B0009C778F /* XMGStatusBarHUD.bundle */; };
+		B3CBB81E1BB0F5B0009C778F /* XMGStatusBarHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = B3CBB81C1BB0F5B0009C778F /* XMGStatusBarHUD.m */; };
+		B3CBB8221BB0F5C2009C778F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3CBB81F1BB0F5C2009C778F /* Main.storyboard */; };
+		B3CBB8231BB0F5C2009C778F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B3CBB8211BB0F5C2009C778F /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,12 +39,12 @@
 		B336258C1BB0E87C004E5F5E /* XMGStatusBarHUDDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XMGStatusBarHUDDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B33625911BB0E87C004E5F5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B33625921BB0E87C004E5F5E /* XMGStatusBarHUDDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XMGStatusBarHUDDemoTests.m; sourceTree = "<group>"; };
-		B33625AC1BB0E9EC004E5F5E /* XMGStatusBarHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = XMGStatusBarHUD.bundle; sourceTree = "<group>"; };
-		B33625AE1BB0EA01004E5F5E /* XMGStatusBarHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMGStatusBarHUD.h; sourceTree = "<group>"; };
-		B33625AF1BB0EA01004E5F5E /* XMGStatusBarHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMGStatusBarHUD.m; sourceTree = "<group>"; };
-		B33625B61BB0EB4B004E5F5E /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = "../../../../../../../../Leo/Desktop/WORK/小码哥/iOS项目/iOS项目第十二天/XMGStatusBarHUDDemo/XMGStatusBarHUDDemo/Main.storyboard"; sourceTree = "<group>"; };
-		B33625B71BB0EB4B004E5F5E /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = "../../../../../../../../Leo/Desktop/WORK/小码哥/iOS项目/iOS项目第十二天/XMGStatusBarHUDDemo/XMGStatusBarHUDDemo/ViewController.h"; sourceTree = "<group>"; };
-		B33625B81BB0EB4B004E5F5E /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = "../../../../../../../../Leo/Desktop/WORK/小码哥/iOS项目/iOS项目第十二天/XMGStatusBarHUDDemo/XMGStatusBarHUDDemo/ViewController.m"; sourceTree = "<group>"; };
+		B3CBB81A1BB0F5B0009C778F /* XMGStatusBarHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = XMGStatusBarHUD.bundle; sourceTree = "<group>"; };
+		B3CBB81B1BB0F5B0009C778F /* XMGStatusBarHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMGStatusBarHUD.h; sourceTree = "<group>"; };
+		B3CBB81C1BB0F5B0009C778F /* XMGStatusBarHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMGStatusBarHUD.m; sourceTree = "<group>"; };
+		B3CBB81F1BB0F5C2009C778F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B3CBB8201BB0F5C2009C778F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		B3CBB8211BB0F5C2009C778F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,14 +86,14 @@
 		B33625751BB0E87C004E5F5E /* XMGStatusBarHUDDemo */ = {
 			isa = PBXGroup;
 			children = (
-				B336259F1BB0E99B004E5F5E /* XMGStatusBarHUD */,
+				B3CBB8191BB0F5B0009C778F /* XMGStatusBarHUD */,
 				B336257A1BB0E87C004E5F5E /* AppDelegate.h */,
 				B336257B1BB0E87C004E5F5E /* AppDelegate.m */,
 				B33625831BB0E87C004E5F5E /* Images.xcassets */,
+				B3CBB81F1BB0F5C2009C778F /* Main.storyboard */,
+				B3CBB8201BB0F5C2009C778F /* ViewController.h */,
+				B3CBB8211BB0F5C2009C778F /* ViewController.m */,
 				B33625851BB0E87C004E5F5E /* LaunchScreen.xib */,
-				B33625B61BB0EB4B004E5F5E /* Main.storyboard */,
-				B33625B71BB0EB4B004E5F5E /* ViewController.h */,
-				B33625B81BB0EB4B004E5F5E /* ViewController.m */,
 				B33625761BB0E87C004E5F5E /* Supporting Files */,
 			);
 			path = XMGStatusBarHUDDemo;
@@ -125,15 +125,14 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B336259F1BB0E99B004E5F5E /* XMGStatusBarHUD */ = {
+		B3CBB8191BB0F5B0009C778F /* XMGStatusBarHUD */ = {
 			isa = PBXGroup;
 			children = (
-				B33625AC1BB0E9EC004E5F5E /* XMGStatusBarHUD.bundle */,
-				B33625AE1BB0EA01004E5F5E /* XMGStatusBarHUD.h */,
-				B33625AF1BB0EA01004E5F5E /* XMGStatusBarHUD.m */,
+				B3CBB81A1BB0F5B0009C778F /* XMGStatusBarHUD.bundle */,
+				B3CBB81B1BB0F5B0009C778F /* XMGStatusBarHUD.h */,
+				B3CBB81C1BB0F5B0009C778F /* XMGStatusBarHUD.m */,
 			);
-			name = XMGStatusBarHUD;
-			path = "../../../../../../../../Leo/Desktop/WORK/小码哥/iOS项目/iOS项目第十二天/XMGStatusBarHUDDemo/XMGStatusBarHUDDemo/XMGStatusBarHUD";
+			path = XMGStatusBarHUD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -216,10 +215,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B33625AD1BB0E9EC004E5F5E /* XMGStatusBarHUD.bundle in Resources */,
+				B3CBB81D1BB0F5B0009C778F /* XMGStatusBarHUD.bundle in Resources */,
 				B33625871BB0E87C004E5F5E /* LaunchScreen.xib in Resources */,
 				B33625841BB0E87C004E5F5E /* Images.xcassets in Resources */,
-				B33625B91BB0EB4B004E5F5E /* Main.storyboard in Resources */,
+				B3CBB8221BB0F5C2009C778F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,9 +237,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B336257C1BB0E87C004E5F5E /* AppDelegate.m in Sources */,
-				B33625B01BB0EA01004E5F5E /* XMGStatusBarHUD.m in Sources */,
-				B33625BA1BB0EB4B004E5F5E /* ViewController.m in Sources */,
 				B33625791BB0E87C004E5F5E /* main.m in Sources */,
+				B3CBB8231BB0F5C2009C778F /* ViewController.m in Sources */,
+				B3CBB81E1BB0F5B0009C778F /* XMGStatusBarHUD.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +428,7 @@
 				B33625981BB0E87C004E5F5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B33625991BB0E87C004E5F5E /* Build configuration list for PBXNativeTarget "XMGStatusBarHUDDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -437,6 +437,7 @@
 				B336259B1BB0E87C004E5F5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
