@@ -14,8 +14,11 @@ static UIWindow *window_;
 static NSTimer *timer_;
 /** HUD控件的高度*/
 static CGFloat const XMGWindowH = 20;
+
 /** HUD控件动画的持续时间*/
 static CGFloat const XMGAnimationDuration = 0.25;
+
+
 /** HUD控件默认会停留多长时间*/
 static CGFloat const XMGStayDuration = 1.5;
 
