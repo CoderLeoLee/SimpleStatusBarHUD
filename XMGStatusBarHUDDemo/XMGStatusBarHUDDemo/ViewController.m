@@ -16,14 +16,9 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-}
+- (void)viewDidLoad{
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    // 这个方法不哟啊删除,以后还有用
 }
 
 - (IBAction)success {
